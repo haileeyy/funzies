@@ -5,7 +5,7 @@
       body{
         background-color: black;
         color: white;
-        -webkit-text-stroke: 3px orange;
+        -webkit-text-stroke: 1spx orange;
         font-size: 25px;
         
       }
